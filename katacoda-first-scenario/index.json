@@ -1,0 +1,26 @@
+{
+  "title": "katacoda test scenario",
+  "description": "katacoda test scenario",
+  "difficulty": "Beginner",
+  "time": "1m",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1904"
+  }
+}
